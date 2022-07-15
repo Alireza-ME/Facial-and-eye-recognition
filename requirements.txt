@@ -1,0 +1,4 @@
+sys
+PyQt5
+numpy
+opencv-python
